@@ -51,7 +51,7 @@
      } else{
 
       echo "Time1 is greater than Time2";
-     } **/
+     } */
     
     //var_dump($_POST['timein']); exit();
 
